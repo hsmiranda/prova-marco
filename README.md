@@ -5,7 +5,7 @@ O que deve ser implementado:
 
 ## Requisitos
 
-1. Listar itemO sistema deverá cadastrar usuários
+1. O sistema deverá cadastrar usuários
 
 2. Os usuários deverão ter os seguintes dados: 
 -  Nome
